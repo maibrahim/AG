@@ -1,2 +1,0 @@
-# AG
-Created with CodeSandbox
